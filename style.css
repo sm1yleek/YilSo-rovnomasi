@@ -1,0 +1,36 @@
+.wrapper {
+    margin-top: 200px;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.wrapper__main {
+    width: 300px;
+    height: 300px;
+    border: 1px dashed red;
+    background: #800080;
+    border-radius:10% ;
+    position: relative;
+    
+}
+
+.wrap {
+    color: rgb(250, 245, 245);
+    margin-top: 120px;
+    margin-left: 70px;
+
+}
+
+.it {
+
+    
+    margin-left: 3px;
+}
+
+.id {
+    
+position: absolute;
+    margin-left: 80px;
+}
