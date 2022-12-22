@@ -18,7 +18,7 @@ id.addEventListener('mouseenter' , () => {
 
 
 it.addEventListener('click', () => {
-    ('siz endi kotlar royxatidasiz !')
+    alert('Tabriklaymiz siz endi kotlar royxatidasiz !')
 })
 
 // randomfunction   static random = (min, max) => Math.floor(Math.random() * (max + 1 - min) +min)
